@@ -1,0 +1,36 @@
+/* * { */
+/*   /\* box-sizing: border-box; *\/ */
+/* } */
+
+html {
+    min-height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, yellow, red);
+}
+
+input {
+    margin-top: 100%;
+    text-align: center;
+    background-color: orange;
+    width: 300px;
+    height: 70px;
+    font-size: 30px;
+}
+
+.search-container input {
+ /* TODO */
+}
+
+.search-container .suggestions {
+   /* TODO */
+}
+
+
+input {
+   /* TODO */
+}
